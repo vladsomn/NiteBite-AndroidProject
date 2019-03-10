@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "227115364257",
+    "firebase_url": "https://nitebite-v3.firebaseio.com",
+    "project_id": "nitebite-v3",
+    "storage_bucket": "nitebite-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227115364257:android:5ef727246747a4cc",
+        "android_client_info": {
+          "package_name": "com.example.lasso.nitebite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227115364257-5p6mhhlto9d1of3v7fs8ttf3428ei3jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1BpT1AnpW3XP9l1G7x3vS_WY8vgkdk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
